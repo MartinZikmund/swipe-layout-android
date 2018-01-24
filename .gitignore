@@ -45,3 +45,5 @@ local.properties
 ehthumbs.db
 Thumbs.db
 /.idea
+/SwipeLayoutXamarin/.vs/SwipeLayoutXamarin/v15
+/SwipeLayoutXamarin/packages
