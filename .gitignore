@@ -47,3 +47,6 @@ Thumbs.db
 /.idea
 /SwipeLayoutXamarin/.vs/SwipeLayoutXamarin/v15
 /SwipeLayoutXamarin/packages
+/SwipeLayoutXamarin/SwipeLayoutXamarin/obj/Debug
+/SwipeLayoutXamarin/SwipeLayoutXamarin/bin/Debug
+/SwipeLayoutXamarin/SwipeLayoutXamarinSample/obj/Debug
